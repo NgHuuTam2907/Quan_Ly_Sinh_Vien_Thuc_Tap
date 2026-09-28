@@ -1,0 +1,7 @@
+com/example/internship/repository/CompanyRepository.class
+com/example/internship/InternshipApplication.class
+com/example/internship/repository/RegistrationRepository.class
+com/example/internship/controller/CompanyController.class
+com/example/internship/model/Company.class
+com/example/internship/controller/StudentController.class
+com/example/internship/model/Registration.class
